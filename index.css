@@ -2,7 +2,7 @@
 
 body {
     display: flex;
-    height: 500vh;
+    height: 200vh;
     justify-content: center;
     align-items: center;
 }
