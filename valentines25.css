@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #f2acac;
+    background-image: url('/background-hearts.png');
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #8e0404;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+img {
+    width: 400px;
+    height: auto;
+    margin: 20px 0;
+}
+.signature {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 1.2em;
+}
